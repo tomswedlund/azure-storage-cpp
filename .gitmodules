@@ -1,0 +1,3 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://msdata.visualstudio.com/DefaultCollection/CosmosDB/_git/vcpkg
